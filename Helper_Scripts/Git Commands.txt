@@ -29,5 +29,5 @@ REMOTE
 add remote repo reference locally: git remote add ["remote variable name"] [repo url]
 
 create pull request remotely: git push -u ["remote variable name"] ["local branch name"]
-
+ 
 pull from remote repo: git pull ["remote variable name"] ["local branch name"]
