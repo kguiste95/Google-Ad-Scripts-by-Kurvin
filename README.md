@@ -30,5 +30,5 @@ If you have any questions please reach out to me
 - 📫 How to reach me:
 	- Email: kguiste95@gmail.com
   - Facebook: https://www.facebook.com/kurvin.guiste.GoogleAdsScriptsExpert/
-  - LnikedIn: https://www.linkedin.com/in/kurvin-guiste-536836138/
+  - LinkedIn: https://www.linkedin.com/in/kurvin-guiste-536836138/
 
